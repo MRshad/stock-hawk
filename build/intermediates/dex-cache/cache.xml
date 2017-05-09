@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4f7e1ce5942093c77105c86ef11b782f75aff0c3">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-core-0.8.5.8_0ff31af6479122fb6a13e7e20c494de7723fb0ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_ead15d51575a8792115eae9735414a0b124e57ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_7b095f368f524f2f1386dfad790c4536f35840e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MRshad\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_facca06673a7eae97ad365436f94ec18fd1f1cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_5d080dd3fe3f795b5178f2e6b5aa16e251d35e7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MRshad\.gradle\caches\modules-2\files-2.1\com.squareup\javapoet\1.2.0\ad3ba65c1788f4d814a4da056323e2b84412fb3c\javapoet-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ad3ba65c1788f4d814a4da056323e2b84412fb3c">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\javapoet-1.2.0_97572182006392601cfbd3449ff300bf098a4816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MRshad\.gradle\caches\modules-2\files-2.1\net.simonvt.schematic\schematic-annotations\0.6.3\4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36\schematic-annotations-0.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\schematic-annotations-0.6.3_81e8131522134aade446da0b08de48c0cccede4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_12ef886bbd808baa850849a061b42e11642ee392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\net.simonvt.schematic\schematic\0.6.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\net.simonvt.schematic-schematic-0.6.3_6dee4f61943085a54311463f9e046c0f9eaa94c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.5_d60b689e0fc784f46dd93fe1075f7c96b507793e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MRshad\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_23609dccfaf59405aa71d48ee4cd518c20a8d48a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_10710ea28cb57da760e94ac1d34adfc142ae3145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_4a9f5e26dd169de33c049cbe500d869c28051c7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bfbe0faafe575b8b0e344e914bde4360cd799891">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\instant-run_a6bd0518311bb21e0aee85ff862923e9ba50f713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.3.0_c221d7897d4c2010089c690ab240cabb4091044b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MRshad\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_3feedce39f15f2b3636f4d5d7212e1eef5c9647b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_ef4283c31e15a7f1ab2db907761a28d7d4264864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_d09ecf3c18a294b9dc863f1807033243ac4beff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_832373ac7f3663a7b481bea9f440d55ed49af239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MRshad\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_a557c97aaf0be3c21184b875d468e5ec2422844d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MRshad\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0_b32f514b5f0947ed3eca8c0562f38a91ee62f617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MRshad\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0\49eb3ad545e7701234e4dd83db8dc1344b577f23\converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0_e6e9ccfdf90ceefadfa5566b9c6b4282b8fb9247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_28765d9ef2976e2e44827dc8edbda8968516f7d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_b0f41adfc47d3d0be9c75cb6fdae5533c65f01a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MRshad\.gradle\caches\modules-2\files-2.1\net.simonvt.schematic\schematic-compiler\0.6.3\e0e34b884d0ab725272b1772e01f1ad2e0759410\schematic-compiler-0.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e0e34b884d0ab725272b1772e01f1ad2e0759410">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\schematic-compiler-0.6.3_25f764345a37c10ff870aa422e46fb881edbc7ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="323493558c63d6a1e79543e82bcca07aed574140">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_38757896b039d667acb4b9865e559c8c7125843b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MRshad\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\gson-2.6.1_6034d3f79a0457c15f5fd0e0ec3405e109534876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\exploded-aar\com.github.lecho\hellocharts-library\1.5.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="56c6a22c42588628903e9dda5d8f3aa1c1b4372f">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\com.github.lecho-hellocharts-library-1.5.8_9525220171baf4f82241fec9ec143bbd330c93c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\MyAndroid\Stock-hawk-app-master\app\build\intermediates\pre-dexed\debug\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" />
+    </item>
+
+</items>

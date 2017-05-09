@@ -1,0 +1,13 @@
+<!--
+  Copyright 2017.  MRshad : Tarek BEN CHARRADA
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".StocksActivity">
+    <item
+        android:id="@+id/action_change_units"
+        android:icon="@drawable/ic_attach_money_white_24dp"
+        android:title="@string/action_change_units"
+        app:showAsAction="always" />
+</menu>
